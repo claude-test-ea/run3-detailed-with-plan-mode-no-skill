@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:/Users/Loan Laptop/Desktop/run3-detailed-with-plan-mode-no-skill/checks/input_prompts.txt\")",
+      "Bash(cd:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(wc -l predictions/*.csv)",
+      "Bash(\"C:/Users/Loan Laptop/Desktop/run3-detailed-with-plan-mode-no-skill/checks/timer.csv\")",
+      "Bash(gh auth:*)"
+    ]
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true
+  }
+}
