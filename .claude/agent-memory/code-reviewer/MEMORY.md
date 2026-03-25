@@ -1,0 +1,1 @@
+- [Loan ML Architecture & Review Findings](project_loan_ml_architecture.md) -- critical bugs found: data leakage, missing dict keys, column name mismatch
